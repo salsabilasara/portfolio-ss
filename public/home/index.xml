@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Saraban Salsabila</title>
+    <link>http://localhost:1313/portfolio-saraban-salsabila/home/</link>
+    <description>Recent content in Homes on Saraban Salsabila</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/portfolio-saraban-salsabila/home/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/portfolio-saraban-salsabila/home/subheader/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio-saraban-salsabila/home/subheader/</guid>
+      <description>&lt;p&gt;Driven, reliable, and adaptable—I’m a professional who thrives on challenges and consistently delivers results. With a reputation&#xA;for being a quick learner and a team player, I bring energy, responsibility, and focus to every project. I am eager to contribute my&#xA;skills and be a valuable asset to a forward-thinking team.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

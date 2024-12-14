@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Saraban Salsabila</title>
+    <link>http://localhost:1313/portfolio-saraban-salsabila/home/services/</link>
+    <description>Recent content in Projects on Saraban Salsabila</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 25 Nov 2024 12:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/portfolio-saraban-salsabila/home/services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Smoke and Fire Detection System</title>
+      <link>http://localhost:1313/portfolio-saraban-salsabila/home/services/service1/</link>
+      <pubDate>Mon, 25 Nov 2024 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio-saraban-salsabila/home/services/service1/</guid>
+      <description>&lt;p&gt;The Smoke and Fire Detection System with Automated Ventilation is an innovative safety solution designed to detect hazardous conditions in enclosed spaces and respond effectively by improving ventilation. This project highlights the integration of sensors, actuators, and software for real-time monitoring and automated responses to mitigate fire-related risks efficiently.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sugar Rocket</title>
+      <link>http://localhost:1313/portfolio-saraban-salsabila/home/services/service2/</link>
+      <pubDate>Sun, 24 Nov 2024 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio-saraban-salsabila/home/services/service2/</guid>
+      <description>&lt;p&gt;This project involved designing, fabricating, and testing a sugar rocket using solid rocket propellant. The primary objectives included propellant formulation, nozzle design, and trajectory modeling, culminating in a static test demonstration. The project aimed to develop practical engineering solutions for small-scale rocket propulsion systems, emphasizing efficiency, safety, and cost-effectiveness.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Soccer Bot</title>
+      <link>http://localhost:1313/portfolio-saraban-salsabila/home/services/service3/</link>
+      <pubDate>Sat, 23 Nov 2024 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio-saraban-salsabila/home/services/service3/</guid>
+      <description>&lt;p&gt;As part of an exciting academic competition, my team and I designed and built a Soccer Bot—a robot capable of playing soccer using a simple Bluetooth control system. The project was both a challenging and rewarding experience, blending creativity, engineering skills, and teamwork. The bot was designed to efficiently navigate the field, approach the ball, and guide it toward the goal without needing complex mechanisms.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Drone Development Project</title>
+      <link>http://localhost:1313/portfolio-saraban-salsabila/home/services/service4/</link>
+      <pubDate>Thu, 21 Nov 2024 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio-saraban-salsabila/home/services/service4/</guid>
+      <description>&lt;p&gt;The pandemic gave me the perfect opportunity to take on this project in my free time. It was a completely hands-on learning experience where I wasn’t applying any formal academic knowledge, but instead, I learned by trial and error, relying on online resources like Google and YouTube for guidance and troubleshooting.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

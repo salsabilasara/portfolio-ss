@@ -1,0 +1,49 @@
+[
+    {
+        "id": 0,
+        "name": "Ananda Shipyard",
+        "image": "images/ananda_shipyard_logo.png",
+        "url": "home/recentworks/internship1",
+        "items": []
+    },
+    {
+        "id": 1,
+        "name": "Kazi Farms",
+        "image": "images/kazi_farms_logo.jpeg",
+        "url": "home/recentworks/internship2",
+        "items": []
+    },
+    {
+        "id": 2,
+        "name": "Techno Venture",
+        "image": "images/techno_logo.png",
+        "url": "home/recentworks/internship3",
+        "items": []
+    },
+    {
+        "id": 3,
+        "name": "Walton Hi-Tech Industries PLC",
+        "image": "images/walton_logo.jpg",
+        "url": "home/recentworks/internship4",
+        "items": []
+    },
+    {
+        "id": 5,
+        "name": "Bangladesh Power Development Board (BPDB) ",
+        "image": "images/bpdb_logo.png",
+        "url": "home/recentworks/internship6",
+        "items": [
+            {
+                "name": "Certificate",
+                "url": "/certificates/bpdb_certificate.pdf"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "SQ Factory",
+        "image": "images/sq_logo.jpeg",
+        "url": "home/recentworks/internship7",
+        "items": []
+    }
+]
